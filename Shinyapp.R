@@ -7,12 +7,17 @@ library(devtools)
 library(caret)
 library(class)
 
+
+
 ## loading dataframes
 
-data_label_target <- read_csv("https://github.com/Muhammadzaryab22/Artistrecommender/blob/main/datalabel.csv")
-mldataframest <- read_csv("https://github.com/Muhammadzaryab22/Artistrecommender/blob/main/mldataframest.csv")
+urlfile<-'https://raw.githubusercontent.com/Muhammadzaryab22/Artistrecommender/main/mldataframest.csv'
+mldataframest<-read.csv(urlfile)
 
-data_label_target <- data_label_target$data_label_target
+urlfile2 <- 'https://raw.githubusercontent.com/Muhammadzaryab22/Artistrecommender/main/datalabel.csv'
+data_label_target <- read.csv(urlfile2)
+data_label_target <- as.factor(data_label_target$data_label_target)
+
 
 
 ## User interface
