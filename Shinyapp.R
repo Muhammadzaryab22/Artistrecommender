@@ -7,6 +7,11 @@ library(devtools)
 library(caret)
 library(class)
 
+## loading dataframes
+
+data_label_target <- read_csv("https://github.com/Muhammadzaryab22/Artistrecommender/blob/main/datalabel.csv")
+mldataframest <- read_csv("https://github.com/Muhammadzaryab22/Artistrecommender/blob/main/mldataframest.csv")
+
 
 ## User interface
 
