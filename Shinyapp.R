@@ -12,6 +12,8 @@ library(class)
 data_label_target <- read_csv("https://github.com/Muhammadzaryab22/Artistrecommender/blob/main/datalabel.csv")
 mldataframest <- read_csv("https://github.com/Muhammadzaryab22/Artistrecommender/blob/main/mldataframest.csv")
 
+data_label_target <- data_label_target$data_label_target
+
 
 ## User interface
 
