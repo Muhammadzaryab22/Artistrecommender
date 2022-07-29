@@ -3,7 +3,7 @@
 # Example R code to install packages if not already installed
 #
 
-my_packages = c("shiny", "data.table", "spotifyr", "tidyverse", "knitr", "devtools", "caret", "class", "MASS", "caTools")
+my_packages = c("shiny", "data.table", "spotifyr", "tidyverse", "knitr", "caret", "class", "MASS", "caTools")
 
 install_if_missing = function(p) {
   if (p %in% rownames(installed.packages()) == FALSE) {
