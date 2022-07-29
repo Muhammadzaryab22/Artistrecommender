@@ -3,7 +3,6 @@ library(data.table)
 library(spotifyr)
 library(tidyverse)
 library(knitr)
-library(devtools)
 library(caret)
 library(class)
 
