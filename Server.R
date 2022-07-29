@@ -1,3 +1,13 @@
+library(shiny)
+library(data.table)
+library(spotifyr)
+library(tidyverse)
+library(knitr)
+library(caret)
+library(class)
+
+
+
 set.seed(123)
 server<- function(input, output, session) {
   
