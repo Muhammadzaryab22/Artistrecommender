@@ -1,7 +1,7 @@
 library(shiny)
 library(data.table)
 library(spotifyr)
-library(tidyverse)
+library(dplyr)
 library(knitr)
 library(caret)
 library(class)
@@ -37,7 +37,7 @@ server<- function(input, output, session) {
     
     ###  Standardize inputs df so that it can go through the model
     
-    df2 <- transpose(df)
+    df2 <- data.table::transpose(df)
     
     write.table(df2,"df2.csv", sep=",", quote = FALSE, row.names = FALSE, col.names = FALSE)
     
