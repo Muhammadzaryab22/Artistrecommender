@@ -1,0 +1,1439 @@
+artist_name,key_mode,tempo,popularitymean,keymode
+A92,C# major,144,50,9
+A92,E minor,143,50,16
+A92,D major,73,50,11
+A92,B minor,147,50,6
+A92,B minor,146,50,6
+A92,F# minor,140,50,20
+A92,A# minor,143,50,4
+A92,B major,140,50,5
+A92,B minor,142,50,6
+A92,B major,140,50,5
+A92,C# major,142,50,9
+A92,C# major,141,50,9
+A92,A# minor,142,50,4
+A92,G major,146,50,21
+A92,D# minor,145,50,14
+A92,C# major,143,50,9
+A92,C# major,142,50,9
+A92,A# minor,143,50,4
+A92,C minor,141,50,8
+A92,F# minor,144,50,20
+A92,E minor,136,50,16
+A92,D major,147,50,11
+A92,A# minor,144,50,4
+A92,A# minor,141,50,4
+A92,G major,142,50,21
+A92,F# minor,142,50,20
+A92,G major,144,50,21
+A92,B minor,140,50,6
+A92,G# major,142,50,23
+A92,F# minor,146,50,20
+A92,A major,144,50,1
+A92,C# major,140,50,9
+A92,C major,143,50,7
+A92,B minor,145,50,6
+A92,D major,144,50,11
+Abra Cadabra,F major,80,54,17
+Abra Cadabra,C major,107,54,7
+Abra Cadabra,F# minor,80,54,20
+Abra Cadabra,F# minor,109,54,20
+Abra Cadabra,A major,143,54,1
+Abra Cadabra,A# minor,140,54,4
+Abra Cadabra,F# major,149,54,19
+Abra Cadabra,C# major,144,54,9
+Abra Cadabra,C# major,143,54,9
+Abra Cadabra,C# major,97,54,9
+Abra Cadabra,B major,90,54,5
+Abra Cadabra,B minor,143,54,6
+Abra Cadabra,D major,145,54,11
+Abra Cadabra,C# major,114,54,9
+Abra Cadabra,C# major,105,54,9
+Abra Cadabra,A major,145,54,1
+Abra Cadabra,A major,145,54,1
+Abra Cadabra,D# minor,143,54,14
+Abra Cadabra,A minor,100,54,2
+Abra Cadabra,D# minor,142,54,14
+Abra Cadabra,G# minor,140,54,24
+Abra Cadabra,A# minor,130,54,4
+Abra Cadabra,D minor,93,54,12
+Abra Cadabra,B minor,106,54,6
+Abra Cadabra,C# minor,125,54,10
+Abra Cadabra,E minor,111,54,16
+Abra Cadabra,C# major,87,54,9
+Abra Cadabra,F# minor,73,54,20
+Abra Cadabra,F# minor,142,54,20
+Abra Cadabra,A# minor,71,54,4
+Abra Cadabra,D# minor,147,54,14
+Abra Cadabra,A major,144,54,1
+Abra Cadabra,F# minor,144,54,20
+Abra Cadabra,C# major,140,54,9
+Abra Cadabra,F minor,103,54,18
+Abra Cadabra,B minor,157,54,6
+Abra Cadabra,A minor,75,54,2
+Abra Cadabra,D# minor,90,54,14
+Abra Cadabra,G# major,95,54,23
+Abra Cadabra,G# minor,105,54,24
+Abra Cadabra,G# minor,99,54,24
+Abra Cadabra,G# major,145,54,23
+Abra Cadabra,E minor,146,54,16
+Abra Cadabra,F minor,93,54,18
+Abra Cadabra,B minor,107,54,6
+Abra Cadabra,B minor,110,54,6
+Abra Cadabra,A# minor,101,54,4
+Abra Cadabra,E minor,65,54,16
+Abra Cadabra,E minor,68,54,16
+Abra Cadabra,A major,150,54,1
+Abra Cadabra,C minor,105,54,8
+Abra Cadabra,C# major,140,54,9
+Abra Cadabra,G# major,140,54,23
+Abra Cadabra,F# major,94,54,19
+Abra Cadabra,C major,116,54,7
+Abra Cadabra,A minor,106,54,2
+Abra Cadabra,A# minor,106,54,4
+Abra Cadabra,C# major,145,54,9
+Abra Cadabra,G# major,145,54,23
+Abra Cadabra,G# major,145,54,23
+Abra Cadabra,B minor,92,54,6
+ArrDee,C# major,142,61,9
+ArrDee,B major,140,61,5
+ArrDee,D minor,143,61,12
+ArrDee,D major,104,61,11
+ArrDee,A# major,140,61,3
+ArrDee,B minor,144,61,6
+ArrDee,F# minor,103,61,20
+ArrDee,F major,143,61,17
+ArrDee,G major,139,61,21
+ArrDee,A minor,140,61,2
+ArrDee,B minor,141,61,6
+ArrDee,G minor,143,61,22
+ArrDee,B minor,140,61,6
+ArrDee,F major,143,61,17
+ArrDee,G# major,143,61,23
+ArrDee,F# major,143,61,19
+ArrDee,F minor,142,61,18
+ArrDee,B minor,142,61,6
+ArrDee,G# major,141,61,23
+ArrDee,G major,91,61,21
+Bandokay,D major,145,53,11
+Bandokay,C# major,144,53,9
+Bandokay,C# major,76,53,9
+Bandokay,F minor,145,53,18
+Bandokay,C minor,94,53,8
+Bandokay,A# minor,87,53,4
+Bandokay,D major,68,53,11
+Bandokay,C# minor,150,53,10
+Bandokay,F# major,143,53,19
+Bandokay,C major,144,53,7
+Bandokay,C# major,149,53,9
+Bandokay,B minor,95,53,6
+Bandokay,C# major,144,53,9
+Bandokay,B minor,133,53,6
+Bandokay,F minor,97,53,18
+Bandokay,C# major,146,53,9
+Bandokay,C# major,140,53,9
+Bandokay,C# major,140,53,9
+Bandokay,F# major,140,53,19
+Bandokay,G# minor,140,53,24
+Bandokay,A minor,142,53,2
+Bandokay,D major,143,53,11
+Bandokay,B minor,144,53,6
+Bandokay,A# minor,147,53,4
+Bandokay,E major,146,53,15
+Bandokay,B minor,142,53,6
+Bandokay,B minor,110,53,6
+Bandokay,B minor,145,53,6
+Bandokay,G# major,146,53,23
+Bandokay,B minor,142,53,6
+Bandokay,C# major,144,53,9
+Bandokay,D# minor,144,53,14
+Bandokay,B major,142,53,5
+Bandokay,F minor,141,53,18
+Bandokay,G major,140,53,21
+Bandokay,G minor,143,53,22
+Bandokay,D minor,145,53,12
+Bandokay,G major,145,53,21
+Bandokay,C# major,142,53,9
+Bandokay,C# major,140,53,9
+Bandokay,C# major,138,53,9
+Buni,B minor,148,53,6
+Buni,C# minor,141,53,10
+Buni,A# major,145,53,3
+Buni,A# minor,143,53,4
+Buni,C# major,147,53,9
+Buni,C# major,147,53,9
+Buni,A# minor,145,53,4
+Buni,A major,145,53,1
+Buni,B minor,141,53,6
+Buni,C# major,143,53,9
+Buni,E minor,145,53,16
+C1,C# major,145,34,9
+C1,C major,149,34,7
+C1,A minor,145,34,2
+C1,C# major,141,34,9
+C1,C major,102,34,7
+C1,G major,142,34,21
+C1,D major,142,34,11
+C1,C# major,142,34,9
+C1,C# major,142,34,9
+C1,G major,140,34,21
+C1,B minor,135,34,6
+C1,A major,130,34,1
+C1,G# major,97,34,23
+C1,D major,140,34,11
+C1,D major,144,34,11
+C1,C# minor,143,34,10
+C1,D major,141,34,11
+C1,C# minor,147,34,10
+C1,A# minor,140,34,4
+C1,G major,99,34,21
+C1,G major,143,34,21
+C1,A major,146,34,1
+C1,C# minor,142,34,10
+C1,D major,143,34,11
+C1,D major,143,34,11
+C1,A major,143,34,1
+C1,B major,142,34,5
+C1,B major,140,34,5
+C1,B major,140,34,5
+C1,C major,143,34,7
+C1,A minor,147,34,2
+C1,B minor,142,34,6
+C1,C# major,144,34,9
+C1,A minor,140,34,2
+C1,C# major,140,34,9
+C1,A# major,140,34,3
+C1,A# major,140,34,3
+C1,A# major,140,34,3
+C1,C# major,142,34,9
+C1,C major,142,34,7
+C1,C# major,145,34,9
+C1,C# minor,139,34,10
+C1,C# major,146,34,9
+C1,C# major,140,34,9
+C1,C# major,146,34,9
+Central Cee,E minor,145,70,16
+Central Cee,A# major,141,70,3
+Central Cee,D major,143,70,11
+Central Cee,A major,140,70,1
+Central Cee,C minor,145,70,8
+Central Cee,A# minor,144,70,4
+Central Cee,A# major,141,70,3
+Central Cee,B minor,142,70,6
+Central Cee,C minor,140,70,8
+Central Cee,A major,143,70,1
+Central Cee,A minor,140,70,2
+Central Cee,D# major,143,70,13
+Central Cee,B minor,142,70,6
+Central Cee,G# major,146,70,23
+Central Cee,F minor,117,70,18
+Central Cee,D major,143,70,11
+Central Cee,A# minor,143,70,4
+Central Cee,G major,142,70,21
+Central Cee,G minor,145,70,22
+Central Cee,D major,145,70,11
+Central Cee,B minor,145,70,6
+Central Cee,F minor,147,70,18
+Central Cee,E minor,150,70,16
+Central Cee,G major,143,70,21
+Central Cee,G major,142,70,21
+Central Cee,A major,142,70,1
+Central Cee,D# minor,144,70,14
+Central Cee,C# minor,145,70,10
+Central Cee,B minor,142,70,6
+Central Cee,G# minor,136,70,24
+Central Cee,C# major,152,70,9
+Central Cee,F minor,75,70,18
+Central Cee,B minor,140,70,6
+Central Cee,B minor,126,70,6
+Central Cee,G# major,140,70,23
+Central Cee,F# minor,142,70,20
+Central Cee,G# minor,142,70,24
+Central Cee,C# minor,141,70,10
+Central Cee,A# minor,146,70,4
+Central Cee,C minor,144,70,8
+Central Cee,D minor,156,70,12
+Central Cee,G minor,85,70,22
+Central Cee,G# minor,100,70,24
+Central Cee,G# major,130,70,23
+Central Cee,F major,150,70,17
+Central Cee,F# minor,160,70,20
+Central Cee,F major,136,70,17
+Central Cee,C major,84,70,7
+Chinx (OS),C major,144,45,7
+Chinx (OS),F minor,142,45,18
+Chinx (OS),A major,142,45,1
+Chinx (OS),D major,144,45,11
+Chinx (OS),F# minor,142,45,20
+DigDat,C# major,147,49,9
+DigDat,C# major,145,49,9
+DigDat,C# major,144,49,9
+DigDat,F minor,152,49,18
+DigDat,C# major,145,49,9
+DigDat,G minor,146,49,22
+DigDat,A major,148,49,1
+DigDat,F# minor,76,49,20
+DigDat,C# minor,143,49,10
+DigDat,C major,143,49,7
+DigDat,A# major,143,49,3
+DigDat,B minor,142,49,6
+DigDat,A major,144,49,1
+DigDat,C# major,142,49,9
+DigDat,A major,148,49,1
+DigDat,C major,141,49,7
+DigDat,D major,142,49,11
+DigDat,B minor,143,49,6
+DigDat,B minor,140,49,6
+DigDat,C# minor,156,49,10
+DigDat,C# major,145,49,9
+DigDat,A# major,146,49,3
+DigDat,A# major,143,49,3
+DigDat,C# minor,156,49,10
+DigDat,F# minor,120,49,20
+DigDat,C# major,145,49,9
+DigDat,G major,141,49,21
+DigDat,C# major,140,49,9
+DigDat,C# minor,126,49,10
+DigDat,F major,126,49,17
+DigDat,C major,126,49,7
+DigDat,F# minor,133,49,20
+DigDat,C# major,126,49,9
+DigDat,C# major,142,49,9
+DigDat,C# major,142,49,9
+DigDat,F major,140,49,17
+DigDat,D minor,140,49,12
+DigDat,B minor,146,49,6
+Digga D,A minor,134,52,2
+Digga D,C# major,140,52,9
+Digga D,C# major,92,52,9
+Digga D,A major,99,52,1
+Digga D,F minor,95,52,18
+Digga D,C# major,145,52,9
+Digga D,G major,141,52,21
+Digga D,C major,140,52,7
+Digga D,G# major,141,52,23
+Digga D,F# minor,118,52,20
+Digga D,C major,100,52,7
+Digga D,D# minor,144,52,14
+Digga D,C# major,142,52,9
+Digga D,F# minor,144,52,20
+Digga D,B minor,85,52,6
+Digga D,C major,144,52,7
+Digga D,A# minor,145,52,4
+Digga D,C# major,144,52,9
+Digga D,F# minor,96,52,20
+Digga D,A# minor,140,52,4
+Digga D,G# major,141,52,23
+Digga D,D major,140,52,11
+Digga D,G# minor,142,52,24
+Digga D,D major,143,52,11
+Digga D,C# major,145,52,9
+Digga D,F major,140,52,17
+Digga D,A minor,143,52,2
+Digga D,A major,142,52,1
+Digga D,G major,99,52,21
+Digga D,C major,144,52,7
+Digga D,G major,67,52,21
+Digga D,B minor,142,52,6
+Digga D,G# major,140,52,23
+Digga D,G# major,143,52,23
+Digga D,F# minor,140,52,20
+Digga D,C# major,143,52,9
+Digga D,G# minor,100,52,24
+Digga D,B minor,122,52,6
+Digga D,C major,141,52,7
+Digga D,C major,140,52,7
+Digga D,E minor,142,52,16
+Digga D,A minor,69,52,2
+Digga D,B major,145,52,5
+Digga D,B major,145,52,5
+Digga D,C# major,145,52,9
+Digga D,A minor,143,52,2
+Digga D,C# minor,140,52,10
+Digga D,C major,120,52,7
+Digga D,D major,140,52,11
+Digga D,E major,100,52,15
+Digga D,C# major,132,52,9
+Digga D,D major,140,52,11
+Digga D,G# major,100,52,23
+Digga D,B major,145,52,5
+Digga D,C major,146,52,7
+Digga D,C# major,139,52,9
+Digga D,D major,141,52,11
+Digga D,A major,142,52,1
+Digga D,A# minor,140,52,4
+DoRoad,D major,142,39,11
+DoRoad,C major,146,39,7
+DoRoad,G major,143,39,21
+DoRoad,B major,145,39,5
+DoRoad,C# major,141,39,9
+DoRoad,C# major,142,39,9
+DoRoad,D major,141,39,11
+DoRoad,D# minor,138,39,14
+DoRoad,F# minor,130,39,20
+Double Lz,G# major,128,49,23
+Double Lz,C# minor,145,49,10
+Double Lz,D major,145,49,11
+Double Lz,G# minor,146,49,24
+Double Lz,A major,140,49,1
+Double Lz,G major,146,49,21
+Double Lz,B major,145,49,5
+Double Lz,G minor,138,49,22
+Double Lz,D# minor,146,49,14
+Double Lz,G# minor,97,49,24
+Double Lz,F# minor,101,49,20
+Double Lz,A major,140,49,1
+Double Lz,G major,142,49,21
+Double Lz,C minor,145,49,8
+dutchavelli,A major,142,56,1
+dutchavelli,G# minor,145,56,24
+dutchavelli,C minor,142,56,8
+dutchavelli,G# minor,155,56,24
+dutchavelli,C# major,144,56,9
+dutchavelli,G# major,142,56,23
+dutchavelli,G# minor,140,56,24
+dutchavelli,G# minor,142,56,24
+dutchavelli,A minor,140,56,2
+dutchavelli,A# minor,142,56,4
+dutchavelli,C major,142,56,7
+dutchavelli,C minor,148,56,8
+dutchavelli,A major,148,56,1
+dutchavelli,C# major,145,56,9
+dutchavelli,C# major,140,56,9
+dutchavelli,B minor,145,56,6
+dutchavelli,C# major,139,56,9
+dutchavelli,C# major,98,56,9
+dutchavelli,G minor,143,56,22
+dutchavelli,C# major,142,56,9
+dutchavelli,D major,102,56,11
+dutchavelli,B minor,138,56,6
+dutchavelli,D# minor,144,56,14
+dutchavelli,E major,96,56,15
+dutchavelli,D major,143,56,11
+dutchavelli,F minor,144,56,18
+dutchavelli,G# minor,140,56,24
+dutchavelli,C# major,98,56,9
+dutchavelli,A# minor,130,56,4
+dutchavelli,C# major,140,56,9
+dutchavelli,C# major,145,56,9
+dutchavelli,A# minor,133,56,4
+E1 (3x3),A# minor,144,45,4
+E1 (3x3),B minor,140,45,6
+E1 (3x3),B minor,142,45,6
+E1 (3x3),A# major,142,45,3
+E1 (3x3),G# minor,140,45,24
+E1 (3x3),G minor,140,45,22
+E1 (3x3),G major,142,45,21
+E1 (3x3),C major,146,45,7
+E1 (3x3),C# major,141,45,9
+E1 (3x3),A# minor,150,45,4
+E1 (3x3),E minor,142,45,16
+E1 (3x3),A# major,145,45,3
+E1 (3x3),G minor,145,45,22
+E1 (3x3),E minor,142,45,16
+E1 (3x3),C# major,142,45,9
+E1 (3x3),B minor,144,45,6
+E1 (3x3),A# minor,143,45,4
+E1 (3x3),C# major,150,45,9
+E1 (3x3),B minor,142,45,6
+E1 (3x3),B major,144,45,5
+E1 (3x3),C# major,148,45,9
+E1 (3x3),D major,142,45,11
+Fredo,F# minor,88,60,20
+Fredo,E minor,85,60,16
+Fredo,D major,109,60,11
+Fredo,B major,81,60,5
+Fredo,B minor,126,60,6
+Fredo,B minor,130,60,6
+Fredo,D major,147,60,11
+Fredo,C# major,121,60,9
+Fredo,B minor,146,60,6
+Fredo,G major,88,60,21
+Fredo,F# minor,87,60,20
+Fredo,G major,92,60,21
+Fredo,E minor,175,60,16
+Fredo,B minor,134,60,6
+Fredo,C# major,122,60,9
+Fredo,C# major,86,60,9
+Fredo,A# minor,140,60,4
+Fredo,C minor,97,60,8
+Fredo,G minor,130,60,22
+Fredo,G minor,125,60,22
+Fredo,B minor,135,60,6
+Fredo,D major,130,60,11
+Fredo,A minor,128,60,2
+Fredo,F minor,85,60,18
+Fredo,C major,89,60,7
+Fredo,F# minor,170,60,20
+Fredo,A# minor,83,60,4
+Fredo,A major,160,60,1
+Fredo,G# major,98,60,23
+Fredo,F# minor,86,60,20
+Fredo,C# major,125,60,9
+Fredo,C# major,120,60,9
+Fredo,G# major,120,60,23
+Fredo,G major,81,60,21
+Fredo,C# major,95,60,9
+Fredo,G major,98,60,21
+Fredo,A minor,82,60,2
+Fredo,B minor,97,60,6
+Fredo,B minor,76,60,6
+Fredo,A minor,137,60,2
+Fredo,B major,106,60,5
+Fredo,G major,100,60,21
+Fredo,D minor,107,60,12
+Fredo,E minor,103,60,16
+Fredo,B major,91,60,5
+Fredo,F major,92,60,17
+Fredo,C# major,101,60,9
+Fredo,D# minor,90,60,14
+Fredo,A minor,117,60,2
+Fredo,F minor,104,60,18
+Fredo,E minor,110,60,16
+Fredo,B major,66,60,5
+Fredo,C# major,144,60,9
+Fredo,D# minor,146,60,14
+Fredo,F# minor,170,60,20
+Fredo,F minor,132,60,18
+Fredo,C# major,115,60,9
+Fredo,E minor,140,60,16
+Fredo,G# minor,109,60,24
+Fredo,A major,96,60,1
+Fredo,C# major,91,60,9
+Fredo,G# major,140,60,23
+Fredo,G# major,120,60,23
+Fredo,G# major,94,60,23
+Fredo,G# minor,109,60,24
+Fredo,C# major,91,60,9
+Fredo,E minor,140,60,16
+Fredo,D major,107,60,11
+Fredo,E minor,132,60,16
+Fredo,C major,68,60,7
+Fredo,F# major,132,60,19
+Fredo,F# major,108,60,19
+Fredo,F# major,108,60,19
+Fredo,A# minor,108,60,4
+Fredo,F# minor,103,60,20
+Fredo,F minor,128,60,18
+Fredo,C minor,108,60,8
+Fredo,G# major,105,60,23
+Fredo,G major,100,60,21
+Fredo,F# major,108,60,19
+Fredo,C# major,101,60,9
+Fredo,G# major,120,60,23
+Fredo,B minor,106,60,6
+Fredo,C# major,140,60,9
+Fredo,C# major,125,60,9
+Fredo,A minor,119,60,2
+Fredo,A major,143,60,1
+Fredo,F minor,92,60,18
+French The Kid,C minor,142,58,8
+French The Kid,F minor,98,58,18
+French The Kid,D# minor,145,58,14
+French The Kid,D# major,105,58,13
+French The Kid,C# minor,86,58,10
+French The Kid,F# major,110,58,19
+French The Kid,G# major,172,58,23
+French The Kid,A# major,146,58,3
+French The Kid,G major,91,58,21
+French The Kid,D# major,99,58,13
+French The Kid,B minor,144,58,6
+French The Kid,A major,68,58,1
+French The Kid,F# minor,141,58,20
+French The Kid,F# minor,148,58,20
+French The Kid,C# major,101,58,9
+French The Kid,A minor,130,58,2
+French The Kid,C minor,138,58,8
+French The Kid,B minor,125,58,6
+French The Kid,B minor,125,58,6
+French The Kid,A# minor,94,58,4
+French The Kid,B minor,142,58,6
+French The Kid,A minor,94,58,2
+French The Kid,E major,142,58,15
+French The Kid,C# major,140,58,9
+French The Kid,C# major,142,58,9
+French The Kid,B minor,117,58,6
+French The Kid,G minor,87,58,22
+French The Kid,E minor,76,58,16
+French The Kid,F# major,126,58,19
+French The Kid,D major,143,58,11
+Headie One,G# minor,135,60,24
+Headie One,C# major,145,60,9
+Headie One,C# major,143,60,9
+Headie One,C# major,148,60,9
+Headie One,E minor,142,60,16
+Headie One,A major,99,60,1
+Headie One,C# major,100,60,9
+Headie One,C# major,103,60,9
+Headie One,D major,135,60,11
+Headie One,F minor,146,60,18
+Headie One,C major,138,60,7
+Headie One,G# major,120,60,23
+Headie One,B minor,93,60,6
+Headie One,C# major,142,60,9
+Headie One,G minor,132,60,22
+Headie One,G# minor,150,60,24
+Headie One,B minor,142,60,6
+Headie One,F# minor,146,60,20
+Headie One,E minor,77,60,16
+Headie One,A major,69,60,1
+Headie One,A major,104,60,1
+Headie One,G# minor,141,60,24
+Headie One,F minor,141,60,18
+Headie One,G major,142,60,21
+Headie One,C# major,92,60,9
+Headie One,F major,147,60,17
+Headie One,G major,130,60,21
+Headie One,G major,130,60,21
+Headie One,A major,144,60,1
+Headie One,C# major,97,60,9
+Headie One,C major,103,60,7
+Headie One,G# minor,140,60,24
+Headie One,B minor,111,60,6
+Headie One,A major,140,60,1
+Headie One,A# minor,143,60,4
+Headie One,F minor,146,60,18
+Headie One,G major,124,60,21
+Headie One,F minor,118,60,18
+Headie One,F minor,145,60,18
+Headie One,C# major,140,60,9
+Headie One,G# major,144,60,23
+Headie One,C# major,136,60,9
+Headie One,D major,106,60,11
+Headie One,A minor,82,60,2
+Headie One,B minor,140,60,6
+Headie One,B minor,136,60,6
+Headie One,D# minor,123,60,14
+Headie One,B minor,160,60,6
+Headie One,B minor,123,60,6
+Headie One,C# minor,136,60,10
+Headie One,C# major,146,60,9
+Headie One,C# major,136,60,9
+Headie One,C# major,104,60,9
+Headie One,A# minor,145,60,4
+Headie One,C# major,142,60,9
+Headie One,B minor,143,60,6
+Headie One,A# minor,144,60,4
+Headie One,A minor,119,60,2
+Headie One,A# minor,144,60,4
+Headie One,A major,140,60,1
+Headie One,C minor,140,60,8
+Headie One,B major,143,60,5
+Headie One,C major,82,60,7
+Headie One,A# major,140,60,3
+Headie One,G major,143,60,21
+Headie One,A# minor,140,60,4
+Headie One,C# major,144,60,9
+Headie One,D major,142,60,11
+Headie One,D major,140,60,11
+Headie One,G# major,142,60,23
+Headie One,F# minor,143,60,20
+Headie One,A# minor,143,60,4
+Headie One,G major,140,60,21
+Headie One,D major,140,60,11
+Headie One,C# major,145,60,9
+Headie One,A# minor,140,60,4
+Headie One,B major,155,60,5
+Headie One,E minor,142,60,16
+Headie One,F# minor,144,60,20
+Headie One,G# major,142,60,23
+Headie One,F# minor,140,60,20
+Headie One,B minor,140,60,6
+Headie One,G minor,145,60,22
+Headie One,C# major,143,60,9
+Headie One,A# minor,142,60,4
+Headie One,D major,156,60,11
+Headie One,C# minor,134,60,10
+Headie One,C# major,143,60,9
+Headie One,C# minor,142,60,10
+Headie One,C minor,142,60,8
+Headie One,C# major,142,60,9
+Headie One,F minor,135,60,18
+Headie One,C# major,143,60,9
+Headie One,A# minor,140,60,4
+Headie One,C minor,142,60,8
+Headie One,A# minor,105,60,4
+Headie One,A# minor,134,60,4
+Headie One,A# minor,155,60,4
+Headie One,G# minor,144,60,24
+Headie One,B minor,142,60,6
+Headie One,G# minor,140,60,24
+Headie One,B minor,138,60,6
+Headie One,A# minor,142,60,4
+Headie One,C# major,141,60,9
+Headie One,C# major,140,60,9
+Headie One,C major,140,60,7
+Headie One,C# major,140,60,9
+Headie One,G# major,140,60,23
+Headie One,E minor,145,60,16
+Headie One,D major,142,60,11
+Headie One,D major,142,60,11
+Headie One,C# major,140,60,9
+Headie One,C# major,136,60,9
+Headie One,C major,140,60,7
+Headie One,D major,140,60,11
+Headie One,C# major,140,60,9
+Headie One,B minor,146,60,6
+Headie One,A minor,140,60,2
+Headie One,F# minor,145,60,20
+Headie One,A major,145,60,1
+Headie One,C# major,140,60,9
+Headie One,C# minor,140,60,10
+Headie One,C minor,140,60,8
+Headie One,D major,140,60,11
+Headie One,G# major,103,60,23
+Headie One,C# major,144,60,9
+Headie One,C# major,144,60,9
+Headie One,E minor,145,60,16
+Headie One,A minor,96,60,2
+Headie One,C# major,144,60,9
+Headie One,A major,144,60,1
+Headie One,A major,106,60,1
+Headie One,C# major,142,60,9
+Headie One,C# major,145,60,9
+Headie One,B minor,139,60,6
+Headie One,E minor,77,60,16
+Headie One,E minor,77,60,16
+Headie One,E minor,77,60,16
+Headie One,C# major,143,60,9
+Headie One,C# major,141,60,9
+Headie One,B major,140,60,5
+Headie One,A# minor,96,60,4
+Headie One,B major,136,60,5
+Headie One,C# major,139,60,9
+Headie One,G# minor,145,60,24
+Headie One,C# major,143,60,9
+Headie One,B minor,94,60,6
+Headie One,G# minor,160,60,24
+Headie One,D major,142,60,11
+Headie One,A minor,120,60,2
+Headie One,B minor,95,60,6
+Headie One,C# major,141,60,9
+Headie One,C major,141,60,7
+Headie One,F# minor,135,60,20
+Headie One,C# minor,105,60,10
+Headie One,G major,142,60,21
+Headie One,C major,146,60,7
+Horrid1,C# major,145,44,9
+Horrid1,C# major,145,44,9
+Horrid1,A major,143,44,1
+Horrid1,B major,145,44,5
+Horrid1,F# major,142,44,19
+Horrid1,D major,142,44,11
+Horrid1,C# major,146,44,9
+Horrid1,F# major,146,44,19
+Horrid1,D major,99,44,11
+Horrid1,C# major,146,44,9
+Horrid1,F# minor,140,44,20
+Horrid1,G# major,143,44,23
+Horrid1,A# major,145,44,3
+Horrid1,B major,143,44,5
+Horrid1,C# major,138,44,9
+Horrid1,A major,145,44,1
+K-Trap,C# major,90,51,9
+K-Trap,C# major,77,51,9
+K-Trap,B minor,143,51,6
+K-Trap,A minor,107,51,2
+K-Trap,G major,140,51,21
+K-Trap,C# major,145,51,9
+K-Trap,G# minor,150,51,24
+K-Trap,C# major,123,51,9
+K-Trap,E minor,146,51,16
+K-Trap,C# major,138,51,9
+K-Trap,G# major,92,51,23
+K-Trap,G major,143,51,21
+K-Trap,F minor,144,51,18
+K-Trap,C# major,145,51,9
+K-Trap,D major,140,51,11
+K-Trap,C# major,144,51,9
+K-Trap,D minor,147,51,12
+K-Trap,F# major,141,51,19
+K-Trap,G minor,145,51,22
+K-Trap,F minor,142,51,18
+K-Trap,F# major,140,51,19
+K-Trap,G# major,143,51,23
+K-Trap,F# minor,142,51,20
+K-Trap,C# major,140,51,9
+K-Trap,C# minor,141,51,10
+K-Trap,C# major,142,51,9
+K-Trap,C# minor,89,51,10
+K-Trap,F minor,140,51,18
+K-Trap,D major,93,51,11
+K-Trap,G# major,143,51,23
+K-Trap,C# major,140,51,9
+K-Trap,A# minor,108,51,4
+K-Trap,G minor,138,51,22
+K-Trap,F# minor,96,51,20
+K-Trap,F major,122,51,17
+K-Trap,C# major,140,51,9
+K-Trap,G minor,170,51,22
+K-Trap,F major,80,51,17
+K-Trap,E major,92,51,15
+K-Trap,C# major,99,51,9
+K-Trap,C# major,102,51,9
+K-Trap,A# minor,102,51,4
+K-Trap,C major,137,51,7
+K-Trap,A major,132,51,1
+K-Trap,E minor,142,51,16
+K-Trap,F minor,140,51,18
+K-Trap,A minor,105,51,2
+K-Trap,G major,113,51,21
+K-Trap,B minor,144,51,6
+K-Trap,C# minor,134,51,10
+K-Trap,G major,140,51,21
+K-Trap,A# major,140,51,3
+K-Trap,G# minor,148,51,24
+K-Trap,F minor,134,51,18
+K-Trap,G minor,96,51,22
+K-Trap,B minor,100,51,6
+K-Trap,A minor,69,51,2
+K-Trap,C major,140,51,7
+K-Trap,C# major,142,51,9
+K-Trap,A# major,99,51,3
+K-Trap,D major,142,51,11
+K-Trap,C# major,135,51,9
+K-Trap,B major,136,51,5
+K-Trap,C# major,149,51,9
+K-Trap,C# major,134,51,9
+K-Trap,D major,140,51,11
+K-Trap,A minor,143,51,2
+K-Trap,E minor,96,51,16
+K-Trap,C major,141,51,7
+K-Trap,C major,140,51,7
+K-Trap,F# major,140,51,19
+K-Trap,E minor,145,51,16
+K-Trap,G major,142,51,21
+K-Trap,B major,137,51,5
+K-Trap,G# minor,93,51,24
+K-Trap,G major,143,51,21
+K-Trap,D major,140,51,11
+K-Trap,C# minor,140,51,10
+K-Trap,C major,110,51,7
+K-Trap,D major,135,51,11
+K-Trap,C major,142,51,7
+K-Trap,C# major,104,51,9
+K-Trap,G major,144,51,21
+K-Trap,E minor,147,51,16
+K-Trap,B minor,103,51,6
+K-Trap,A major,134,51,1
+K-Trap,A# minor,140,51,4
+K-Trap,G# minor,139,51,24
+K-Trap,F minor,134,51,18
+K-Trap,D major,140,51,11
+K-Trap,B major,137,51,5
+K1 N15,C# major,148,40,9
+K1 N15,C# major,143,40,9
+K1 N15,A major,143,40,1
+K1 N15,D minor,149,40,12
+K1 N15,C# minor,143,40,10
+K1 N15,A major,101,40,1
+K1 N15,G major,140,40,21
+Kwengface,C# major,143,54,9
+Kwengface,C# major,142,54,9
+Kwengface,G major,147,54,21
+Kwengface,G# major,142,54,23
+Kwengface,A minor,106,54,2
+Kwengface,G major,142,54,21
+Kwengface,D# minor,130,54,14
+Kwengface,C# major,142,54,9
+Kwengface,C# major,102,54,9
+Kwengface,D major,144,54,11
+Kwengface,C# major,144,54,9
+Kwengface,F minor,143,54,18
+Kwengface,D major,144,54,11
+Kwengface,D# minor,145,54,14
+Kwengface,D major,142,54,11
+Kwengface,C# major,140,54,9
+Kwengface,B major,145,54,5
+Kwengface,E minor,146,54,16
+Kwengface,C major,140,54,7
+Kwengface,G major,143,54,21
+Kwengface,C# major,144,54,9
+Kwengface,C# major,143,54,9
+Kwengface,F# minor,140,54,20
+Kwengface,A minor,143,54,2
+Kwengface,D minor,107,54,12
+Kwengface,C minor,143,54,8
+Kwengface,B minor,140,54,6
+Kwengface,F# major,145,54,19
+Kwengface,C# major,141,54,9
+Kwengface,A# minor,144,54,4
+Kwengface,C minor,143,54,8
+Kwengface,F minor,105,54,18
+Kwengface,C# minor,140,54,10
+Kwengface,C# major,144,54,9
+Kwengface,G major,140,54,21
+Kwengface,A minor,103,54,2
+Kwengface,C# major,143,54,9
+Kwengface,A# minor,143,54,4
+Kwengface,A# minor,143,54,4
+Kwengface,G minor,141,54,22
+Kwengface,F minor,132,54,18
+Kwengface,B major,145,54,5
+Kwengface,C# major,69,54,9
+Kwengface,C# major,140,54,9
+Kwengface,D major,143,54,11
+LD,C major,141,44,7
+LD,A# minor,95,44,4
+LD,D# minor,149,44,14
+LD,D minor,150,44,12
+LD,C major,142,44,7
+LD,E minor,107,44,16
+LD,A minor,144,44,2
+LD,D major,146,44,11
+LD,F minor,100,44,18
+LD,D major,140,44,11
+LD,C# major,134,44,9
+LD,A# minor,126,44,4
+LD,A# minor,112,44,4
+LD,C major,134,44,7
+LD,C# major,134,44,9
+LD,E minor,123,44,16
+LD,G# minor,80,44,24
+LD,G# minor,124,44,24
+LD,C# major,128,44,9
+LD,B major,154,44,5
+LD,G# minor,142,44,24
+LD,G major,134,44,21
+LD,A# major,133,44,3
+LD,G major,146,44,21
+LD,B minor,145,44,6
+LD,A# minor,139,44,4
+LD,C# major,141,44,9
+LD,G major,116,44,21
+LD,A major,150,44,1
+LD,F# major,140,44,19
+LD,C# major,138,44,9
+LD,G major,144,44,21
+LD,D major,142,44,11
+LD,G major,145,44,21
+LD,A# minor,140,44,4
+LD,E minor,134,44,16
+LD,C major,142,44,7
+LD,C major,142,44,7
+LD,C major,142,44,7
+LD,C major,142,44,7
+LD,G minor,142,44,22
+LD,C# major,143,44,9
+LD,C# major,140,44,9
+LD,A# major,155,44,3
+LD,G major,122,44,21
+LD,B minor,140,44,6
+LD,B minor,135,44,6
+LD,G# major,150,44,23
+LD,A minor,144,44,2
+LD,A major,140,44,1
+LD,G# minor,85,44,24
+LD,F# minor,168,44,20
+LD,D major,149,44,11
+LD,C major,80,44,7
+LD,B minor,133,44,6
+LD,F# minor,82,44,20
+LD,G minor,91,44,22
+Loose,A# major,146,28,3
+Loose,B minor,144,28,6
+Loose,F minor,140,28,18
+Loose,G minor,95,28,22
+Loose,G major,144,28,21
+Loose,A minor,144,28,2
+Loose,E minor,90,28,16
+Loose,F# major,145,28,19
+Loose,G# minor,145,28,24
+Loose,B minor,144,28,6
+Loose,B minor,141,28,6
+Loose,C# major,144,28,9
+Loose,A# minor,143,28,4
+Loski,F major,72,50,17
+Loski,C# major,72,50,9
+Loski,A major,143,50,1
+Loski,C# major,140,50,9
+Loski,D minor,142,50,12
+Loski,A minor,144,50,2
+Loski,C# major,143,50,9
+Loski,C major,144,50,7
+Loski,F# minor,145,50,20
+Loski,A major,141,50,1
+Loski,G# major,140,50,23
+Loski,F minor,142,50,18
+Loski,G major,143,50,21
+Loski,F# major,143,50,19
+Loski,C# major,96,50,9
+Loski,C minor,132,50,8
+Loski,F minor,103,50,18
+Loski,F minor,136,50,18
+Loski,E minor,98,50,16
+Loski,G major,136,50,21
+Loski,G# minor,96,50,24
+Loski,A minor,140,50,2
+Loski,A minor,102,50,2
+Loski,A# minor,99,50,4
+Loski,F minor,145,50,18
+Loski,E minor,143,50,16
+Loski,B minor,66,50,6
+Loski,C# major,102,50,9
+Loski,C# minor,95,50,10
+Loski,F# major,104,50,19
+Loski,C# major,102,50,9
+Loski,F# major,108,50,19
+Loski,C major,65,50,7
+Loski,C major,98,50,7
+Loski,E minor,142,50,16
+Loski,A major,140,50,1
+Loski,D major,142,50,11
+Loski,F minor,143,50,18
+Loski,A# minor,141,50,4
+Loski,A major,143,50,1
+Loski,C# major,142,50,9
+Loski,G minor,140,50,22
+Loski,C major,140,50,7
+Loski,D major,140,50,11
+Loski,F major,109,50,17
+Loski,A major,98,50,1
+Loski,C# major,141,50,9
+Loski,B minor,142,50,6
+Loski,F# major,152,50,19
+Loski,C# minor,152,50,10
+Loski,A# minor,143,50,4
+Loski,F minor,130,50,18
+Loski,D major,142,50,11
+Loski,B minor,139,50,6
+Loski,C# minor,142,50,10
+Loski,C# major,144,50,9
+Loski,E minor,141,50,16
+Loski,G# minor,142,50,24
+Loski,B minor,142,50,6
+Loski,C# minor,118,50,10
+Loski,D major,124,50,11
+Loski,B minor,123,50,6
+Loski,B major,180,50,5
+Loski,C# minor,120,50,10
+Loski,C# minor,105,50,10
+Loski,G# minor,102,50,24
+Loski,G major,136,50,21
+Loski,G# major,143,50,23
+Loski,A# minor,141,50,4
+Loski,D major,142,50,11
+Lucii,C major,72,46,7
+Lucii,C minor,143,46,8
+Lucii,G# major,146,46,23
+Lucii,C# major,142,46,9
+Lucii,B minor,144,46,6
+Lucii,C# major,143,46,9
+Lucii,A minor,142,46,2
+Lucii,F# major,140,46,19
+Lucii,C major,142,46,7
+Lucii,D major,143,46,11
+Lucii,C# minor,145,46,10
+Lucii,B minor,140,46,6
+Lucii,A minor,140,46,2
+Lucii,B minor,140,46,6
+Lucii,C# major,143,46,9
+Lucii,C# major,146,46,9
+Lucii,D major,145,46,11
+Lucii,G major,140,46,21
+Lucii,B major,140,46,5
+Lucii,D major,145,46,11
+Lucii,G# major,143,46,23
+Lucii,D major,145,46,11
+Lucii,G major,140,46,21
+M1llionz,B minor,64,52,6
+M1llionz,B major,141,52,5
+M1llionz,A# minor,144,52,4
+M1llionz,F# major,141,52,19
+M1llionz,A# minor,63,52,4
+M1llionz,A major,147,52,1
+M1llionz,B minor,104,52,6
+M1llionz,D minor,144,52,12
+M1llionz,C major,145,52,7
+M1llionz,C# major,86,52,9
+M1llionz,E minor,141,52,16
+M1llionz,C# major,72,52,9
+M1llionz,G major,140,52,21
+M1llionz,C# minor,86,52,10
+M1llionz,C major,145,52,7
+M1llionz,B minor,143,52,6
+M1llionz,C# major,138,52,9
+M1llionz,E minor,98,52,16
+M1llionz,E minor,142,52,16
+M1llionz,C# major,140,52,9
+M1llionz,G# major,94,52,23
+M1llionz,C# major,143,52,9
+M1llionz,A# major,144,52,3
+M1llionz,C# major,99,52,9
+M1llionz,C major,147,52,7
+M1llionz,F# major,142,52,19
+M1llionz,F# minor,141,52,20
+M1llionz,C# major,143,52,9
+M1llionz,G major,97,52,21
+M1llionz,D major,143,52,11
+M1llionz,G# major,74,52,23
+M24,C major,142,58,7
+M24,A minor,141,58,2
+M24,E minor,142,58,16
+M24,A major,142,58,1
+M24,F minor,142,58,18
+M24,B minor,142,58,6
+M24,C# major,143,58,9
+M24,A# minor,142,58,4
+M24,B major,141,58,5
+M24,E major,144,58,15
+M24,C# major,140,58,9
+M24,C# major,140,58,9
+M24,C# minor,144,58,10
+M24,D major,143,58,11
+M24,G major,140,58,21
+M24,D# major,144,58,13
+M24,D major,142,58,11
+M24,D major,92,58,11
+M24,A# minor,109,58,4
+M24,D major,143,58,11
+M24,G# major,143,58,23
+M24,C# major,148,58,9
+M24,D# minor,142,58,14
+M24,C# major,142,58,9
+M24,C minor,100,58,8
+M24,C# major,140,58,9
+M24,B major,140,58,5
+M24,A# minor,143,58,4
+M24,B minor,142,58,6
+M24,E minor,144,58,16
+M24,A major,143,58,1
+M24,F minor,143,58,18
+M24,G# major,142,58,23
+M24,G minor,142,58,22
+M24,C# major,144,58,9
+M24,E minor,64,58,16
+M24,C# major,144,58,9
+M24,C# major,140,58,9
+M24,A major,143,58,1
+M24,A minor,110,58,2
+M24,B major,140,58,5
+M24,C minor,75,58,8
+M24,A minor,140,58,2
+Morrisson,A minor,145,43,2
+Morrisson,C major,145,43,7
+Morrisson,C# major,140,43,9
+Morrisson,C minor,109,43,8
+Morrisson,A major,110,43,1
+Morrisson,F minor,128,43,18
+Morrisson,A minor,144,43,2
+Morrisson,E minor,140,43,16
+Morrisson,C# major,145,43,9
+Morrisson,C# major,143,43,9
+Morrisson,C# major,143,43,9
+Morrisson,C# major,142,43,9
+Morrisson,A major,130,43,1
+Morrisson,G major,136,43,21
+Morrisson,D# minor,178,43,14
+Morrisson,G# major,86,43,23
+Morrisson,D# minor,128,43,14
+Morrisson,A# minor,86,43,4
+Nito NB,C major,143,50,7
+Nito NB,D major,145,50,11
+Nito NB,G major,141,50,21
+Nito NB,A major,144,50,1
+Nito NB,A# minor,145,50,4
+Nito NB,F# minor,146,50,20
+Nito NB,C# major,140,50,9
+Nito NB,C major,147,50,7
+Nito NB,G major,145,50,21
+Nito NB,D major,143,50,11
+Nito NB,C# major,145,50,9
+Nito NB,G# major,141,50,23
+Nito NB,A major,146,50,1
+Nito NB,F# minor,145,50,20
+Nito NB,C# minor,140,50,10
+Nito NB,C major,142,50,7
+Nito NB,F minor,145,50,18
+Nito NB,A minor,146,50,2
+Nito NB,A minor,140,50,2
+Nito NB,G minor,145,50,22
+Nito NB,C# major,142,50,9
+Nito NB,B minor,143,50,6
+Nito NB,C# major,141,50,9
+Nito NB,C minor,145,50,8
+Nito NB,G major,141,50,21
+PR SAD,B major,145,41,5
+PR SAD,A# minor,141,41,4
+PR SAD,C# major,140,41,9
+PR SAD,C# major,142,41,9
+PR SAD,E major,143,41,15
+PR SAD,D major,143,41,11
+PR SAD,E major,143,41,15
+PR SAD,C major,145,41,7
+PR SAD,A minor,145,41,2
+PR SAD,G# major,137,41,23
+Russ Millions,C# major,140,69,9
+Russ Millions,C# major,141,69,9
+Russ Millions,C# minor,144,69,10
+Russ Millions,C# minor,144,69,10
+Russ Millions,G# major,141,69,23
+Russ Millions,A# minor,140,69,4
+Russ Millions,G major,141,69,21
+Russ Millions,G major,141,69,21
+Russ Millions,F# minor,141,69,20
+Russ Millions,G major,141,69,21
+Russ Millions,B minor,141,69,6
+Russ Millions,B minor,141,69,6
+Russ Millions,E major,141,69,15
+Russ Millions,A# minor,150,69,4
+Russ Millions,C# major,143,69,9
+Russ Millions,G# major,145,69,23
+Russ Millions,C# major,144,69,9
+Russ Millions,A# minor,140,69,4
+Russ Millions,F# minor,143,69,20
+Russ Millions,B major,140,69,5
+Russ Millions,F# major,106,69,19
+Russ Millions,G major,141,69,21
+Russ Millions,F# minor,132,69,20
+Russ Millions,C minor,144,69,8
+Russ Millions,G# major,71,69,23
+Russ Millions,C# major,137,69,9
+Russ Millions,D# major,130,69,13
+Russ Millions,D major,147,69,11
+Russ Millions,D major,132,69,11
+Russ Millions,C# major,137,69,9
+Russ Millions,C# major,140,69,9
+Russ Millions,B major,158,69,5
+Russ Millions,B major,140,69,5
+Russ Millions,F# major,141,69,19
+Russ Millions,B major,141,69,5
+Russ Millions,B major,141,69,5
+Russ Millions,G# major,140,69,23
+Russ Millions,G# major,140,69,23
+Russ Millions,C minor,140,69,8
+Sav'o,C# major,147,48,9
+Sav'o,G major,143,48,21
+Sav'o,C# major,143,48,9
+Sav'o,D major,143,48,11
+Sav'o,C# major,146,48,9
+Sav'o,D major,140,48,11
+SK-47,F# minor,143,48,20
+SK-47,C# minor,142,48,10
+SK-47,C# major,142,48,9
+SK-47,C major,145,48,7
+SK-47,G# major,140,48,23
+SK-47,C minor,140,48,8
+SR,B minor,143,58,6
+SR,D major,145,58,11
+SR,E major,140,58,15
+SR,D major,139,58,11
+SR,A minor,138,58,2
+SR,F minor,152,58,18
+Sus,G# major,143,52,23
+Sus,G major,147,52,21
+Sus,C# major,150,52,9
+Sus,G# major,145,52,23
+Sus,C# major,145,52,9
+Sus,C# major,90,52,9
+Sus,A# minor,143,52,4
+Sus,C# major,105,52,9
+Sus,F minor,144,52,18
+Sus,C# major,142,52,9
+Sus,G# major,149,52,23
+Sus,G# minor,140,52,24
+Sus,C# major,141,52,9
+Sus,C# major,144,52,9
+Sus,C# major,143,52,9
+Sus,C# major,148,52,9
+Sus,B major,140,52,5
+Sus,E major,142,52,15
+Sus,C# major,142,52,9
+Sus,C major,140,52,7
+Sus,C# major,143,52,9
+Sus,B minor,140,52,6
+Tion Wayne,E major,141,67,15
+Tion Wayne,G major,146,67,21
+Tion Wayne,C# major,146,67,9
+Tion Wayne,B minor,100,67,6
+Tion Wayne,B minor,99,67,6
+Tion Wayne,A major,100,67,1
+Tion Wayne,C# minor,180,67,10
+Tion Wayne,F minor,101,67,18
+Tion Wayne,A# minor,140,67,4
+Tion Wayne,C# minor,144,67,10
+Tion Wayne,C# major,94,67,9
+Tion Wayne,A# major,123,67,3
+Tion Wayne,G major,133,67,21
+Tion Wayne,A minor,134,67,2
+Tion Wayne,A# minor,105,67,4
+Tion Wayne,D# minor,176,67,14
+Tion Wayne,D major,103,67,11
+Tion Wayne,B minor,199,67,6
+Tion Wayne,G major,102,67,21
+Tion Wayne,A major,146,67,1
+Tion Wayne,F# major,172,67,19
+Tion Wayne,C# major,104,67,9
+Tion Wayne,A# minor,109,67,4
+Tion Wayne,A minor,88,67,2
+Tion Wayne,C major,104,67,7
+Tion Wayne,G minor,84,67,22
+Tion Wayne,C# major,100,67,9
+Tion Wayne,F minor,87,67,18
+Tion Wayne,B minor,133,67,6
+Tion Wayne,F# minor,129,67,20
+Tion Wayne,A# minor,83,67,4
+Tion Wayne,D# major,106,67,13
+Tion Wayne,C minor,94,67,8
+Tion Wayne,G major,118,67,21
+Tion Wayne,A major,91,67,1
+Tion Wayne,B minor,95,67,6
+Tion Wayne,G# major,85,67,23
+Tion Wayne,F major,92,67,17
+Tion Wayne,B major,0,67,5
+Tion Wayne,G# major,91,67,23
+Tion Wayne,F minor,132,67,18
+Tion Wayne,C major,168,67,7
+Tion Wayne,C minor,98,67,8
+Tion Wayne,G# major,112,67,23
+Tion Wayne,B minor,93,67,6
+Tion Wayne,F# minor,97,67,20
+Tion Wayne,D major,101,67,11
+Tion Wayne,F# major,132,67,19
+Tion Wayne,C minor,124,67,8
+Tion Wayne,D minor,103,67,12
+Tion Wayne,A minor,103,67,2
+Tion Wayne,F minor,90,67,18
+Tion Wayne,C# major,132,67,9
+Tion Wayne,C# minor,97,67,10
+Tion Wayne,D# major,124,67,13
+Tion Wayne,F minor,142,67,18
+Tion Wayne,G# minor,103,67,24
+Tion Wayne,G# major,102,67,23
+Tion Wayne,G# minor,140,67,24
+Tion Wayne,C# major,138,67,9
+Tion Wayne,B minor,140,67,6
+Tion Wayne,G# major,132,67,23
+Tion Wayne,D major,140,67,11
+Tion Wayne,G minor,100,67,22
+Tion Wayne,B minor,104,67,6
+Tion Wayne,A# minor,100,67,4
+Tion Wayne,C major,100,67,7
+Tion Wayne,C major,200,67,7
+Tion Wayne,A# minor,124,67,4
+Tion Wayne,F minor,102,67,18
+Tion Wayne,F minor,106,67,18
+Tion Wayne,C# minor,108,67,10
+Tion Wayne,A# minor,102,67,4
+Tion Wayne,A# minor,139,67,4
+Tion Wayne,C# minor,102,67,10
+Tion Wayne,D major,59,67,11
+Tion Wayne,E minor,104,67,16
+Tion Wayne,B minor,105,67,6
+Tion Wayne,A minor,102,67,2
+Tion Wayne,D# minor,64,67,14
+Tion Wayne,F minor,102,67,18
+Tion Wayne,C major,127,67,7
+Tion Wayne,B minor,139,67,6
+Tion Wayne,E minor,59,67,16
+Tion Wayne,A minor,133,67,2
+Tion Wayne,A# major,73,67,3
+Tion Wayne,G major,100,67,21
+Tion Wayne,G# minor,89,67,24
+Tion Wayne,G major,100,67,21
+Unknown T,A# minor,146,56,4
+Unknown T,F minor,157,56,18
+Unknown T,A# minor,100,56,4
+Unknown T,B minor,145,56,6
+Unknown T,G major,73,56,21
+Unknown T,A# minor,144,56,4
+Unknown T,C# major,72,56,9
+Unknown T,F# major,143,56,19
+Unknown T,C# major,52,56,9
+Unknown T,G minor,102,56,22
+Unknown T,G major,144,56,21
+Unknown T,C minor,134,56,8
+Unknown T,F# minor,140,56,20
+Unknown T,B minor,140,56,6
+Unknown T,A# minor,140,56,4
+Unknown T,C# major,138,56,9
+Unknown T,G# major,93,56,23
+Unknown T,D# major,125,56,13
+Unknown T,E minor,140,56,16
+Unknown T,D major,100,56,11
+Unknown T,G# major,142,56,23
+Unknown T,E minor,106,56,16
+Unknown T,G# major,153,56,23
+Unknown T,G# minor,78,56,24
+Unknown T,C major,140,56,7
+Unknown T,G# minor,156,56,24
+Unknown T,G# major,104,56,23
+Unknown T,A major,143,56,1
+Unknown T,C# major,141,56,9
+Unknown T,E minor,143,56,16
+Unknown T,C minor,111,56,8
+Unknown T,C# major,100,56,9
+Unknown T,C# major,67,56,9
+Unknown T,A major,143,56,1
+Unknown T,F minor,62,56,18
+Unknown T,G major,140,56,21
+Unknown T,E minor,102,56,16
+Unknown T,A minor,148,56,2
+Unknown T,G# major,143,56,23
+Unknown T,B minor,140,56,6
+Unknown T,G major,130,56,21
+Unknown T,G# major,104,56,23
+Unknown T,C# minor,104,56,10
+Unknown T,G# major,143,56,23
+Unknown T,G# minor,136,56,24
+Unknown T,C major,132,56,7
+Unknown T,G major,142,56,21
+Unknown T,E major,126,56,15
+Unknown T,B minor,132,56,6
+Unknown T,G major,126,56,21
+Unknown T,G major,142,56,21
+Unknown T,G major,142,56,21
+Unknown T,A# minor,140,56,4
+Unknown T,C# major,140,56,9
+V9,C# major,143,43,9
+V9,G# major,144,43,23
+V9,C major,141,43,7
+V9,C# major,142,43,9
+V9,B minor,140,43,6
+V9,F# minor,145,43,20
+V9,F# major,142,43,19
+V9,E major,142,43,15
+V9,G# minor,140,43,24
+V9,C major,142,43,7
+V9,A major,140,43,1
+V9,F# minor,96,43,20
+V9,C minor,146,43,8
+V9,G major,143,43,21
+V9,C# minor,141,43,10
+V9,B minor,146,43,6
+V9,C# minor,142,43,10
+V9,C# minor,142,43,10
+V9,D# minor,140,43,14
+V9,D major,143,43,11
+V9,A major,145,43,1
+V9,G# major,141,43,23
+V9,B major,146,43,5
+V9,F# major,144,43,19
+V9,D# minor,143,43,14
+V9,C# major,142,43,9
+V9,G major,139,43,21
+V9,C# major,140,43,9
+V9,C# major,144,43,9
+V9,D major,144,43,11
+V9,G minor,143,43,22
+V9,A# major,144,43,3
+V9,G# major,144,43,23
+V9,B minor,147,43,6
+V9,E minor,143,43,16
+V9,G# minor,145,43,24
+V9,F# minor,141,43,20
+V9,A minor,143,43,2
+V9,B major,142,43,5
+V9,C major,140,43,7
+V9,A# minor,142,43,4
+V9,C# major,142,43,9
+V9,B minor,141,43,6
+V9,G# major,141,43,23
+V9,F# minor,140,43,20
+V9,G# major,142,43,23
+V9,C# major,142,43,9
+V9,F# minor,141,43,20
+V9,C# major,140,43,9
+V9,G# minor,141,43,24
+V9,C# major,143,43,9
+V9,C major,142,43,7
