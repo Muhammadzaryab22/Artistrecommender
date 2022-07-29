@@ -6,7 +6,15 @@ library(knitr)
 library(caret)
 library(class)
 
+urlfile<-'https://raw.githubusercontent.com/Muhammadzaryab22/Artistrecommender/main/mldataframest.csv'
+mldataframest<-read.csv(urlfile)
 
+urlfile2 <- 'https://raw.githubusercontent.com/Muhammadzaryab22/Artistrecommender/main/datalabel.csv'
+data_label_target <- read.csv(urlfile2)
+data_label_target <- as.factor(data_label_target$data_label_target)
+
+urlfile3 <- "https://raw.githubusercontent.com/Muhammadzaryab22/Artistrecommender/main/mldataframe.csv"
+mldataframe <- read.csv(urlfile3)
 
 set.seed(123)
 server<- function(input, output, session) {
