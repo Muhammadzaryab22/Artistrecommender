@@ -5,6 +5,9 @@ library(tidyverse)
 library(knitr)
 library(caret)
 library(class)
+library(caTools)
+library(MASS)
+
 
 urlfile<-'https://raw.githubusercontent.com/Muhammadzaryab22/Artistrecommender/main/mldataframest.csv'
 mldataframest<-read.csv(urlfile)
